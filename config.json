@@ -1,0 +1,8 @@
+{
+  "pair": "BTC/USDT",
+  "lot_size": 1,
+  "strategy": "GPT",
+  "sl_percent": 10,
+  "tp_percent": 10,
+  "trade_interval": 5
+}
