@@ -1,0 +1,4 @@
+openai
+python-binance
+pandas
+requests

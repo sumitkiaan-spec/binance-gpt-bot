@@ -1,0 +1,1 @@
+This is your 24/7 automated trading bot. Edit config.json and deploy main.py using Render.com.

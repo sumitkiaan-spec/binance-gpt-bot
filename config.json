@@ -1,0 +1,8 @@
+{
+  "pair": "BTC/USDT",
+  "lot_size": 10,
+  "strategy": "RSI",
+  "sl_percent": 3,
+  "tp_percent": 6,
+  "trade_interval": 15
+}
