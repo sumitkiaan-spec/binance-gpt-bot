@@ -1,0 +1,1 @@
+This version is connected to Binance and OpenAI. Requires API_KEY, SECRET_KEY, and OPENAI_API_KEY in Render environment variables.
