@@ -32,4 +32,5 @@ def home():
     return "Binance GPT Live Trading Bot is running!"
 
 if __name__ == "__main__":
+    threading.Thread(target=trading_bot).start()
     app.run(host="0.0.0.0", port=10000)
