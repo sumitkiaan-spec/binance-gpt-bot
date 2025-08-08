@@ -2,7 +2,7 @@ import time
 
 print("Trading bot started...")
 
-# Keep the bot running forever
+# This keeps the bot alive forever
 while True:
-    print("Bot is alive... waiting for new signals...")
-    time.sleep(60)  # Wait 60 seconds before checking again
+    print("Bot is alive... waiting for next action...")
+    time.sleep(60)
