@@ -1,1 +1,0 @@
-This is the final version of the 24/7 GPT + Binance auto-trading bot. You can deploy this on Render using the free Web Service tier.
