@@ -1,3 +1,0 @@
-# Connects to Binance API
-API_KEY = 'YOUR_API_KEY'
-SECRET_KEY = 'YOUR_SECRET_KEY'
